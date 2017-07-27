@@ -1,0 +1,15 @@
+{
+  "v1.1.0-preview1-005077_win-x86": "http://download.microsoft.com/download/0/A/4/0A4563C2-B51F-49E5-BDAC-EE13566F1891/dotnet-dev-win-x86.1.1.0-preview1-005077.exe",
+  "v1.1.0-preview1-005077_win-x64": "http://download.microsoft.com/download/0/A/4/0A4563C2-B51F-49E5-BDAC-EE13566F1891/dotnet-dev-win-x64.1.1.0-preview1-005077.exe",
+  "v2.0.0-preview2_win-x86":"https://download.microsoft.com/download/6/1/B/61B3E81F-5509-48D2-BB4F-5189E23CD29A/dotnet-sdk-2.0.0-preview2-006497-win-x86.exe",
+  "v2.0.0-preview2_win-x64":"https://download.microsoft.com/download/6/1/B/61B3E81F-5509-48D2-BB4F-5189E23CD29A/dotnet-sdk-2.0.0-preview2-006497-win-x64.exe",
+  "v1.1.0-preview1-005051_win-x86":"https://download.microsoft.com/download/9/1/5/91598B9D-F099-4950-8C02-C08D957E59BA/dotnet-dev-win-x86.1.1.0-preview1-005051.exe",
+  "v1.1.0-preview1-005051_win-x64":"https://download.microsoft.com/download/9/1/5/91598B9D-F099-4950-8C02-C08D957E59BA/dotnet-dev-win-x64.1.1.0-preview1-005051.exe",
+  "v2.0.0-preview1_win-x86":"https://download.microsoft.com/download/3/7/F/37F1CA21-E5EE-4309-9714-E914703ED05A/dotnet-dev-win-x86.2.0.0-preview1-005977.exe",
+  "v2.0.0-preview1_win-x64":"https://download.microsoft.com/download/3/7/F/37F1CA21-E5EE-4309-9714-E914703ED05A/dotnet-dev-win-x64.2.0.0-preview1-005977.exe",
+  "v1.0.4_win-x86":"https://download.microsoft.com/download/B/9/F/B9F1AF57-C14A-4670-9973-CDF47209B5BF/dotnet-dev-win-x86.1.0.4.exe",
+  "v1.0.4_win-x64":"https://download.microsoft.com/download/B/9/F/B9F1AF57-C14A-4670-9973-CDF47209B5BF/dotnet-dev-win-x64.1.0.4.exe",
+  "v1.0.3_win-x86":"https://go.microsoft.com/fwlink/?LinkID=847102",
+  "v1.0.3_win-x64":"https://go.microsoft.com/fwlink/?LinkID=847097"
+  
+}
